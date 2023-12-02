@@ -1,4 +1,4 @@
-[![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-272beb0455.gif)](https://tarun-032.github.io/Portfolio-website/)
+[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-cd6a2fed9f.gif)](https://tarun-032.github.io/Portfolio-website/)
 <h1 align="center">Hi 👋, I'm Tarun Behera</h1>
 <h3 align="center">A dedicated frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRwdGVsZm56N2hnZjc4ZTNleGR0bzJ0YmkxM2dwaTlnbjZncGQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif")>
