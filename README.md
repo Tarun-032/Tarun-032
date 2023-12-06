@@ -1,4 +1,4 @@
-[![MasterHead](file:///home/chronos/u-f35fc902becbe89c73802aeff92e63fab533ba22/MyFiles/Downloads/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon/971.jpg)](https://tarun-032.github.io/Portfolio-website/)
+[![MasterHead](https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?w=740&t=st=1701847454~exp=1701848054~hmac=277df098d1ceecd21486c34260343c9fb627ef92921c071d65af1c312fe0c4a4)](https://tarun-032.github.io/Portfolio-website/)
 <h1 align="center">Hi 👋, I'm Tarun Behera</h1>
 <h3 align="center">A dedicated frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif")>
