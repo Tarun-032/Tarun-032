@@ -1,26 +1,75 @@
-[![MasterHead](https://img.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_80328-238.jpg?w=740&t=st=1701847454~exp=1701848054~hmac=277df098d1ceecd21486c34260343c9fb627ef92921c071d65af1c312fe0c4a4)](https://tarun-032.github.io/Portfolio-website/)
-<h1 align="center">Hi 👋, I'm Tarun Behera</h1>
-<h3 align="center">A Dedicated Frontend Developer and AL/ML enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif")>
+<h1 align="center">Hi, I'm Tarun Behera 👋</h1>
+<h3 align="center">Data Scientist & ML Engineer | MS Data Science @ University of Maryland</h3>
 
-- 🌱 I’m currently learning **Javascript,React**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://tarun-032.github.io/Portfolio-website/](https://tarun-032.github.io/Portfolio-website/)
+I'm a graduate student at the **University of Maryland, College Park** with professional experience building machine learning models, data pipelines, and analytics solutions across financial and healthcare domains. I enjoy turning messy, real-world data into insights and systems that actually make a difference.
 
-- 📫 How to reach me **tarunbehera032@gmail.com**
+- 🎓 Currently pursuing **MS in Data Science** at UMD (2025–2027)
+- 💼 Previously **Data Scientist @ Axis Bank** — built ML models on 500K+ financial records, NLP pipelines, and Power BI dashboards
+- 🏆 **1st Place** at Microsoft Datathon (380 teams) for predictive crime analytics
+- 🤖 Interested in **Applied ML, GenAI, Healthcare AI, and Analytics Engineering**
+- 🌐 Portfolio: [datascienceportfol.io/trueditz](https://datascienceportfol.io/trueditz)
+- 📫 Reach me at **tarunbehera032@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Programming**
+`Python` `SQL` `R` `JavaScript`
+
+**Machine Learning & AI**
+`Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Hugging Face` `LangChain` `RAG` `LLMs` `NLP` `BERT`
+
+**Data & Analytics**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `A/B Testing` `Statistical Modeling` `Feature Engineering`
+
+**BI & Visualization**
+`Power BI` `Tableau` `Streamlit`
+
+**Cloud & DevOps**
+`GCP` `AWS` `Azure ML` `Docker` `Git` `GitHub Actions` `CI/CD`
+
+**Databases & Tools**
+`MySQL` `PostgreSQL` `Pinecone` `ETL Pipelines` `Airflow`
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 HavenAI: LLM Fine-Tuning & Evaluation
+Fine-tuned **LLaMA 3.2 3B** using LoRA on 10,000+ conversations, achieving **23% improvement** in emotion classification accuracy. Containerized pipeline with Docker and GCP.
+
+### 📊 Microsoft Datathon — 1st Place
+Predictive crime analytics system processing **50,000+ incident records** using K-Means, DBSCAN, and time-series analysis to forecast crime hotspots and optimize resource allocation.
+
+### 🏥 PCOS Risk Prediction System
+Clinical risk classification model using Random Forest, Logistic Regression, and XGBoost on patient records — achieving **0.93 F1-score** through feature engineering and cross-validation.
+
+### 📈 SaaS Product Analytics Dashboard
+Built an interactive Power BI dashboard analyzing **500+ customer accounts**, tracking churn rate, engagement KPIs, and behavioral patterns to support product and customer success decisions.
+
+---
+
+## 📈 GitHub Stats
+
 <p align="left">
-<a href="https://www.linkedin.com/in/tarun-behera-780704279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun behera" height="30" width="40" /></a>
-<a href="https://instagram.com/_tarun_032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tarun_032" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tarunbehera032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarunbehera032" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=tarun-032&show_icons=true&locale=en&theme=default" alt="tarun-032" />
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun-032&show_icons=true&locale=en&layout=compact" alt="tarun-032" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun-032&show_icons=true&locale=en&layout=compact" alt="tarun-032" /></p>
+## 🤝 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-032&show_icons=true&locale=en" alt="tarun-032" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-032&" alt="tarun-032" /></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/tarun-behera-780704279/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://datascienceportfol.io/trueditz" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Portfolio" height="30" width="40" />
+</a>
+</p>
