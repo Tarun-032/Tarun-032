@@ -8,7 +8,7 @@ I'm a graduate student at the **University of Maryland, College Park** with prof
 - 🎓 Currently pursuing **MS in Data Science** at UMD (2025–2027)
 - 💼 Previously **Data Scientist @ Axis Bank** — built ML models on 500K+ financial records, NLP pipelines, and Power BI dashboards
 - 🏆 **1st Place** at Microsoft Datathon (380 teams) for predictive crime analytics
-- 🤖 Interested in **Applied ML, GenAI, Healthcare AI, and Analytics Engineering**
+- 🔍 Passionate about **Data Science, Machine Learning, and GenAI**
 - 🌐 Portfolio: [datascienceportfol.io/trueditz](https://datascienceportfol.io/trueditz)
 - 📫 Reach me at **tarunbehera032@gmail.com**
 
