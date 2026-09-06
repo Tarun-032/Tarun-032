@@ -7,25 +7,25 @@ I like building stuff, learning about new things, and turning ideas into project
 
 ## Featured Projects
 
-### 🐶 [Mellow](https://github.com/Tarun-032/Mellow)
+###  [Mellow](https://github.com/Tarun-032/Mellow)
 
 A pixel-art desktop companion for Windows that can listen, speak, understand what's on your screen, manage reminders and focus sessions, and work with local AI, cloud models, Claude Code, or Codex.
 
 `Python` `FastAPI` `React` `TypeScript` `Rust` `Tauri` `Local AI`
 
-### 🩺 [Cura](https://github.com/Tarun-032/Cura)
+###  [Cura](https://github.com/Tarun-032/Cura)
 
 A privacy-focused Android app for turning medical documents into an organized, searchable history. Documents can be processed on-device and queried using local or opt-in cloud models.
 
 `Flutter` `Dart` `Drift` `llama.cpp` `On-device AI`
 
-### 🏙️ [LeaseUp Intelligence](https://github.com/Tarun-032/MSA-leaseup-analysis)
+###  [LeaseUp Intelligence](https://github.com/Tarun-032/MSA-leaseup-analysis)
 
 A full-stack analytics project exploring multifamily property lease-up performance across 249 properties, combining Python analysis and clustering with an interactive React dashboard and AI assistant.
 
 `Python` `Pandas` `Scikit-learn` `React` `Data Visualization` `LLMs`
 
-### 📊 [SaaS Product Analytics](https://github.com/Tarun-032/Saas-product-analytics-dashboard)
+###  [SaaS Product Analytics](https://github.com/Tarun-032/Saas-product-analytics-dashboard)
 
 A product analytics project exploring churn, engagement, subscription behavior, and customer support patterns through an interactive Power BI dashboard.
 
