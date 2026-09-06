@@ -41,7 +41,6 @@ A product analytics project exploring churn, engagement, subscription behavior, 
 
 ## GitHub
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-stats-extended.vercel.app/api?username=Tarun-032&show\_icons=true&hide\_border=true&theme=transparent](https://github-stats-extended.vercel.app/api?username=Tarun-032\&show_icons=true\&hide_border=true\&theme=transparent)" alt="GitHub Stats" />
-&#x20; \<img height="165" src="[https://github-stats-extended.vercel.app/api/top-langs?username=Tarun-032&layout=compact&hide\_border=true&theme=transparent](https://github-stats-extended.vercel.app/api/top-langs?username=Tarun-032\&layout=compact\&hide_border=true\&theme=transparent)" alt="Top Languages" />
-\</p>
+![Tarun's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tarun-032&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Tarun-032&layout=compact&hide_border=true&theme=transparent)
