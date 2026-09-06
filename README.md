@@ -1,75 +1,48 @@
-<h1 align="center">Hi, I'm Tarun Behera 👋</h1>
-<h3 align="center">Data Scientist & ML Engineer | MS Data Science @ University of Maryland</h3>
+\<h1 align="center">Hi, I'm Tarun 👋\</h1>
 
-<br/>
-
-I'm a graduate student at the **University of Maryland, College Park** with professional experience building machine learning models, data pipelines, and analytics solutions across financial and healthcare domains. I enjoy turning messy, real-world data into insights and systems that actually make a difference.
-
-- 🎓 Currently pursuing **MS in Data Science** at UMD (2025–2027)
-- 💼 Previously **Data Scientist @ Axis Bank** — built ML models on 500K+ financial records, NLP pipelines, and Power BI dashboards
-- 🏆 **1st Place** at Microsoft Datathon (380 teams) for predictive crime analytics
-- 🔍 Passionate about **Data Science, Machine Learning, and GenAI**
-- 🌐 Portfolio: [datascienceportfol.io/trueditz](https://datascienceportfol.io/trueditz)
-- 📫 Reach me at **tarunbehera032@gmail.com**
+\<p align="center">
+I like building stuff, learning about new things, and turning ideas into projects. Take a look around you might find something interesting.
+\</p>
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-**Languages & Programming**
-`Python` `SQL` `R` `JavaScript`
+### 🐶 [Mellow](https://github.com/Tarun-032/Mellow)
 
-**Machine Learning & AI**
-`Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `Hugging Face` `LangChain` `RAG` `LLMs` `NLP` `BERT`
+A pixel-art desktop companion for Windows that can listen, speak, understand what's on your screen, manage reminders and focus sessions, and work with local AI, cloud models, Claude Code, or Codex.
 
-**Data & Analytics**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `A/B Testing` `Statistical Modeling` `Feature Engineering`
+`Python` `FastAPI` `React` `TypeScript` `Rust` `Tauri` `Local AI`
 
-**BI & Visualization**
-`Power BI` `Tableau` `Streamlit`
+### 🩺 [Cura](https://github.com/Tarun-032/Cura)
 
-**Cloud & DevOps**
-`GCP` `AWS` `Azure ML` `Docker` `Git` `GitHub Actions` `CI/CD`
+A privacy-focused Android app for turning medical documents into an organized, searchable history. Documents can be processed on-device and queried using local or opt-in cloud models.
 
-**Databases & Tools**
-`MySQL` `PostgreSQL` `Pinecone` `ETL Pipelines` `Airflow`
+`Flutter` `Dart` `Drift` `llama.cpp` `On-device AI`
 
----
+### 🏙️ [LeaseUp Intelligence](https://github.com/Tarun-032/MSA-leaseup-analysis)
 
-## 🚀 Featured Projects
+A full-stack analytics project exploring multifamily property lease-up performance across 249 properties, combining Python analysis and clustering with an interactive React dashboard and AI assistant.
 
-### 🤖 HavenAI: LLM Fine-Tuning & Evaluation
-Fine-tuned **LLaMA 3.2 3B** using LoRA on 10,000+ conversations, achieving **23% improvement** in emotion classification accuracy. Containerized pipeline with Docker and GCP.
+`Python` `Pandas` `Scikit-learn` `React` `Data Visualization` `LLMs`
 
-### 📊 Microsoft Datathon — 1st Place
-Predictive crime analytics system processing **50,000+ incident records** using K-Means, DBSCAN, and time-series analysis to forecast crime hotspots and optimize resource allocation.
+### 📊 [SaaS Product Analytics](https://github.com/Tarun-032/Saas-product-analytics-dashboard)
 
-### 🏥 PCOS Risk Prediction System
-Clinical risk classification model using Random Forest, Logistic Regression, and XGBoost on patient records — achieving **0.93 F1-score** through feature engineering and cross-validation.
+A product analytics project exploring churn, engagement, subscription behavior, and customer support patterns through an interactive Power BI dashboard.
 
-### 📈 SaaS Product Analytics Dashboard
-Built an interactive Power BI dashboard analyzing **500+ customer accounts**, tracking churn rate, engagement KPIs, and behavioral patterns to support product and customer success decisions.
+`Power BI` `DAX` `Python` `Product Analytics`
 
 ---
 
-## 📈 GitHub Stats
+## Things I Build With
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tarun-032&show_icons=true&locale=en&theme=default" alt="tarun-032" />
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun-032&show_icons=true&locale=en&layout=compact" alt="tarun-032" />
-</p>
+`Python` · `TypeScript` · `JavaScript` · `React` · `Flutter` · `Rust` · `FastAPI` · `SQL` · `PyTorch`  · `Power BI`
 
 ---
 
-## 🤝 Connect with Me
+## GitHub
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tarun-behera-780704279/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://datascienceportfol.io/trueditz" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Portfolio" height="30" width="40" />
-</a>
-</p>
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-stats-extended.vercel.app/api?username=Tarun-032&show\_icons=true&hide\_border=true&theme=transparent](https://github-stats-extended.vercel.app/api?username=Tarun-032\&show_icons=true\&hide_border=true\&theme=transparent)" alt="GitHub Stats" />
+&#x20; \<img height="165" src="[https://github-stats-extended.vercel.app/api/top-langs?username=Tarun-032&layout=compact&hide\_border=true&theme=transparent](https://github-stats-extended.vercel.app/api/top-langs?username=Tarun-032\&layout=compact\&hide_border=true\&theme=transparent)" alt="Top Languages" />
+\</p>
