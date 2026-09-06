@@ -1,8 +1,7 @@
-\<h1 align="center">Hi, I'm Tarun 👋\</h1>
+<h1 align="center">Hi, I'm Tarun 👋\</h1>
 
-\<p align="center">
-I like building stuff, learning about new things, and turning ideas into projects. Take a look around you might find something interesting.
-\</p>
+<p align="center">
+I like building stuff, learning about new things, and turning ideas into projects. Take a look around you might find something interesting.</p>
 
 ---
 
